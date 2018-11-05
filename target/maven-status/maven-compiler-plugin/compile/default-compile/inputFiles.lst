@@ -1,0 +1,7 @@
+/Users/dhoomilbsheta/Personal/kafka-twitter-producer/src/main/java/ml/dhoomilsheta/app/producer/TwitterKafkaProducer.java
+/Users/dhoomilbsheta/Personal/kafka-twitter-producer/src/main/java/ml/dhoomilsheta/app/model/User.java
+/Users/dhoomilbsheta/Personal/kafka-twitter-producer/src/main/java/ml/dhoomilsheta/app/producer/callback/BasicCallback.java
+/Users/dhoomilbsheta/Personal/kafka-twitter-producer/src/main/java/ml/dhoomilsheta/app/config/KafkaConfiguration.java
+/Users/dhoomilbsheta/Personal/kafka-twitter-producer/src/main/java/ml/dhoomilsheta/app/config/TwitterConfiguration.java
+/Users/dhoomilbsheta/Personal/kafka-twitter-producer/src/main/java/ml/dhoomilsheta/app/model/Tweet.java
+/Users/dhoomilbsheta/Personal/kafka-twitter-producer/src/main/java/ml/dhoomilsheta/app/App.java
